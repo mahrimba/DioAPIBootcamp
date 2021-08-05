@@ -1,0 +1,5 @@
+2021-08-04 16:01:55 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP TABLE EMPRESA_AUD
+DROP[*] TABLE CATEGORIA_USUARIO_AUD"; SQL statement:
+DROP TABLE EMPRESA_AUD
+DROP TABLE CATEGORIA_USUARIO_AUD [42000-200]
